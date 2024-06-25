@@ -25,7 +25,7 @@ function App() {
           count decrease {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Hi Nikita, I did this!
         </p>
       </div>
       <p className="read-the-docs">
