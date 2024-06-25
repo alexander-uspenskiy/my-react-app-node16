@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Hi Nikita, I did this!</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count increse {count}
@@ -25,7 +25,7 @@ function App() {
           count decrease {count}
         </button>
         <p>
-          Hi Nikita, I did this!
+          That was dificult
         </p>
       </div>
       <p className="read-the-docs">
